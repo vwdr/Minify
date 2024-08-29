@@ -1,10 +1,10 @@
 # Minify: A Mini Spotify/Music Player
-![screenshot-1](screenshot.jpg)
+
 ## Overview
 
 **Minify** is a lightweight music player designed to provide a streamlined and engaging experience for playing your favorite tracks. With a simple interface and essential playback controls, Minify brings the functionality of a music player right to your browser.
 
-![Project Screenshot](path-to-your-image)
+![screenshot-1](screenshot.jpg)
 
 ## Technologies Used
 
